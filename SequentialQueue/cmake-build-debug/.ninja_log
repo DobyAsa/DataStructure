@@ -1,0 +1,21 @@
+# ninja log v5
+0	496	1692275560588332834	CMakeFiles/SequentialQueue.dir/main.cpp.o	8b170274dfc011cf
+1	498	1692275560592194000	CMakeFiles/SequentialQueue.dir/SequentialQueue.cpp.o	7f264a732db777ef
+498	550	1692275560645747171	SequentialQueue	3112daea3b6ec7c8
+6	437	1692275587823233979	CMakeFiles/SequentialQueue.dir/SequentialQueue.cpp.o	7f264a732db777ef
+437	481	1692275587869094667	SequentialQueue	3112daea3b6ec7c8
+3	511	1692275620461807019	CMakeFiles/SequentialQueue.dir/SequentialQueue.cpp.o	7f264a732db777ef
+511	557	1692275620509938433	SequentialQueue	3112daea3b6ec7c8
+2	444	1692275659377316528	CMakeFiles/SequentialQueue.dir/SequentialQueue.cpp.o	7f264a732db777ef
+445	491	1692275659426224037	SequentialQueue	3112daea3b6ec7c8
+3	458	1692275761821528122	CMakeFiles/SequentialQueue.dir/main.cpp.o	8b170274dfc011cf
+4	460	1692275761824386227	CMakeFiles/SequentialQueue.dir/SequentialQueue.cpp.o	7f264a732db777ef
+460	506	1692275761871966689	SequentialQueue	3112daea3b6ec7c8
+3	437	1692275847532089705	CMakeFiles/SequentialQueue.dir/main.cpp.o	8b170274dfc011cf
+437	483	1692275847580761255	SequentialQueue	3112daea3b6ec7c8
+3	314	1692275858665347543	CMakeFiles/SequentialQueue.dir/main.cpp.o	8b170274dfc011cf
+314	349	1692275858701908592	SequentialQueue	3112daea3b6ec7c8
+2	453	1692275871517786084	CMakeFiles/SequentialQueue.dir/SequentialQueue.cpp.o	7f264a732db777ef
+453	500	1692275871567031528	SequentialQueue	3112daea3b6ec7c8
+3	312	1692275883622214961	CMakeFiles/SequentialQueue.dir/main.cpp.o	8b170274dfc011cf
+312	349	1692275883661469008	SequentialQueue	3112daea3b6ec7c8
