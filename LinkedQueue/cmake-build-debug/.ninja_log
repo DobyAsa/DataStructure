@@ -1,0 +1,12 @@
+# ninja log v5
+0	475	1692277242627267352	CMakeFiles/LinkedQueue.dir/main.cpp.o	4cb4d607a9c6cb91
+0	477	1692277242631319404	CMakeFiles/LinkedQueue.dir/LinkedQueue.cpp.o	c1f58e22a3f1d671
+477	527	1692277242682418026	LinkedQueue	115dfabfbbaf1508
+3	283	1692277261295588709	CMakeFiles/LinkedQueue.dir/LinkedQueue.cpp.o	c1f58e22a3f1d671
+283	317	1692277261331262089	LinkedQueue	115dfabfbbaf1508
+3	420	1692277369879766137	CMakeFiles/LinkedQueue.dir/main.cpp.o	4cb4d607a9c6cb91
+420	464	1692277369926282315	LinkedQueue	115dfabfbbaf1508
+3	417	1692277805815436303	CMakeFiles/LinkedQueue.dir/LinkedQueue.cpp.o	c1f58e22a3f1d671
+418	461	1692277805861585210	LinkedQueue	115dfabfbbaf1508
+3	284	1692277830584097089	CMakeFiles/LinkedQueue.dir/LinkedQueue.cpp.o	c1f58e22a3f1d671
+284	319	1692277830619979788	LinkedQueue	115dfabfbbaf1508
