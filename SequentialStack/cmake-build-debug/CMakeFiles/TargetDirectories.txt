@@ -1,0 +1,3 @@
+/Users/dobyasa/CLionProjects/DataStructure/SequentialStack/cmake-build-debug/CMakeFiles/SequentialStack.dir
+/Users/dobyasa/CLionProjects/DataStructure/SequentialStack/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dobyasa/CLionProjects/DataStructure/SequentialStack/cmake-build-debug/CMakeFiles/rebuild_cache.dir

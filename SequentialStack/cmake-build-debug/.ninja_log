@@ -1,0 +1,18 @@
+# ninja log v5
+0	555	1692241753115584428	CMakeFiles/SequentialStack.dir/main.cpp.o	eddd87c59c144f16
+1	558	1692241753120136844	CMakeFiles/SequentialStack.dir/SequentialStack.cpp.o	cfbca52d9acfacd5
+558	609	1692241753172858043	SequentialStack	edfe27bcf2392fa
+3	398	1692241769714234446	CMakeFiles/SequentialStack.dir/SequentialStack.cpp.o	cfbca52d9acfacd5
+398	444	1692241769763062686	SequentialStack	edfe27bcf2392fa
+3	464	1692241805868268410	CMakeFiles/SequentialStack.dir/SequentialStack.cpp.o	cfbca52d9acfacd5
+467	518	1692241805924565408	SequentialStack	edfe27bcf2392fa
+5	440	1692241831317130513	CMakeFiles/SequentialStack.dir/main.cpp.o	eddd87c59c144f16
+440	484	1692241831363713013	SequentialStack	edfe27bcf2392fa
+3	470	1692242150692107452	CMakeFiles/SequentialStack.dir/main.cpp.o	eddd87c59c144f16
+471	519	1692242150744186997	SequentialStack	edfe27bcf2392fa
+6	453	1692242174350733191	CMakeFiles/SequentialStack.dir/main.cpp.o	eddd87c59c144f16
+453	499	1692242174399322143	SequentialStack	edfe27bcf2392fa
+3	460	1692242221584472819	CMakeFiles/SequentialStack.dir/main.cpp.o	eddd87c59c144f16
+461	508	1692242221635430314	SequentialStack	edfe27bcf2392fa
+2	338	1692242248136871698	CMakeFiles/SequentialStack.dir/main.cpp.o	eddd87c59c144f16
+338	386	1692242248187578934	SequentialStack	edfe27bcf2392fa
